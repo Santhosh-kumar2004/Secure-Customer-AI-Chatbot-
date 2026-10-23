@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+psycopg
+alembic
+pydantic
+pydantic-settings
+python-dotenv
+python-multipart
+passlib[bcrypt]
+PyJWT
+sentence-transformers
+chromadb
+ollama
+pytest
+httpx
